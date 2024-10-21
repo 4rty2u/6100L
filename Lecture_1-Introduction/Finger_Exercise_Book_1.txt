@@ -1,0 +1,11 @@
+== Steps ==
+
+1 - Get the car key.
+2 - Press the button on the key that opens de car door.
+3 - Go to the car.
+4 - Open the driver's door.
+5 - Enter in the car trought the driver's door.
+6 - Enter the key on the keywall on the steering wheel.
+7 - Turn the car on.
+8 - Using the acelerator e the other functionalities of the car, go to the destiny.
+9 - Now you are in the destinty.
