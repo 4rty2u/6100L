@@ -1,7 +1,7 @@
 def is_in_range (num, renge):
     z = 0
 
-    for i in range(renge):
+    for i in range(renge+1):
         if i == num:
             z += 1
 
@@ -11,4 +11,4 @@ def is_in_range (num, renge):
     else:
         return "Is not in range"
     
-print(is_in_range(11, 10))
+print(is_in_range(10, 10))
